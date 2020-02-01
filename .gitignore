@@ -1,0 +1,9 @@
+*.idea
+out/
+resource/META-INF/*.MF
+*.png
+*.jpg
+*.iml
+!贪吃蛇.jpg
+!resource/images/*.png
+!resource/images/*.jpg
